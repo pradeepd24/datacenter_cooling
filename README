@@ -1,0 +1,10 @@
+To compile and build the executable:
+
+gcc -o datacenter_cooling datacenter_cooling.c
+
+To execute:
+
+./datacenter_cooling input_filename
+
+input_filename should contain the input adhereing to the specifications given here.
+http://www.quora.com/challenges
